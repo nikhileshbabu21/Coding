@@ -1,4 +1,4 @@
-package Code;
+package LinkedListSum;
 
 import java.util.Iterator;
 import java.util.LinkedList;
